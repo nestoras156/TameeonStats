@@ -1,26 +1,31 @@
-from scrap2pandas import scrape_data, data_cleaner, dataStorer
+from scrap2pandas import scrape_data, data_cleaner, played_games_filter, upcoming_games_filter, dataStorer
 from teams import get_teams, populate_team_data
+import pandas as pd
 
 
 def main():
-  url = "https://fbref.com/en/comps/9/schedule/Premier-League-Scores-and-Fixtures"
-  table_id = "sched_2022-2023_9_1"
+  url = "https://fbref.com/en/comps/29/schedule/Allsvenskan-Scores-and-Fixtures"
+  table_id = "sched_2023_29_1"
+  played_games_file_name = 'data.csv'
+  upcoming_games_file_name = 'nextgames.csv'
 
   firstdata = scrape_data(url, table_id)
 
   if firstdata is not None:
     cleaned_dataframe = data_cleaner(firstdata)
-    filename = 'data.csv'
-    dataStorer(cleaned_dataframe, filename)
+    played_games = played_games_filter(cleaned_dataframe)
+    upcoming_games = upcoming_games_filter(cleaned_dataframe)
+
+    dataStorer(played_games, upcoming_games, played_games_file_name, upcoming_games_file_name)
     print("Data scraped and cleaned successfully")
 
-    teams = get_teams(filename)
-    populate_team_data(filename, teams)
+    teams = get_teams(played_games_file_name)
+    populate_team_data(played_games_file_name, teams)
 
     print(f"Teams in the league: {list(teams.keys())}")
-    print("\nStats for Arsenal and Manchester United:")
-    print(f"Arsenal: {vars(teams['Arsenal'])}")
-    print(f"Manchester Utd: {vars(teams['Manchester Utd'])}")
+
+    print("\nUpcoming games:")
+    print(pd.read_csv(upcoming_games_file_name))
 
   else:
     print("Could not scrape data")

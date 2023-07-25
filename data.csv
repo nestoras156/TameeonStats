@@ -1,381 +1,131 @@
-Wk,Day,Date,Time,Home,Home Goals,Away Goals,Away,Referee
-1.0,Fri,2022-08-05,20:00,Crystal Palace,0.0,2.0,Arsenal,Anthony Taylor
-1.0,Sat,2022-08-06,12:30,Fulham,2.0,2.0,Liverpool,Andy Madley
-1.0,Sat,2022-08-06,15:00,Tottenham,4.0,1.0,Southampton,Andre Marriner
-1.0,Sat,2022-08-06,15:00,Newcastle Utd,2.0,0.0,Nott'ham Forest,Simon Hooper
-1.0,Sat,2022-08-06,15:00,Leeds United,2.0,1.0,Wolves,Robert Jones
-1.0,Sat,2022-08-06,15:00,Bournemouth,2.0,0.0,Aston Villa,Peter Bankes
-1.0,Sat,2022-08-06,17:30,Everton,0.0,1.0,Chelsea,Craig Pawson
-1.0,Sun,2022-08-07,14:00,Leicester City,2.0,2.0,Brentford,Jarred Gillett
-1.0,Sun,2022-08-07,14:00,Manchester Utd,1.0,2.0,Brighton,Paul Tierney
-1.0,Sun,2022-08-07,16:30,West Ham,0.0,2.0,Manchester City,Michael Oliver
-2.0,Sat,2022-08-13,12:30,Aston Villa,2.0,1.0,Everton,Michael Oliver
-2.0,Sat,2022-08-13,15:00,Manchester City,4.0,0.0,Bournemouth,David Coote
-2.0,Sat,2022-08-13,15:00,Southampton,2.0,2.0,Leeds United,Tony Harrington
-2.0,Sat,2022-08-13,15:00,Wolves,0.0,0.0,Fulham,John Brooks
-2.0,Sat,2022-08-13,15:00,Arsenal,4.0,2.0,Leicester City,Darren England
-2.0,Sat,2022-08-13,15:00,Brighton,0.0,0.0,Newcastle Utd,Graham Scott
-2.0,Sat,2022-08-13,17:30,Brentford,4.0,0.0,Manchester Utd,Stuart Attwell
-2.0,Sun,2022-08-14,14:00,Nott'ham Forest,1.0,0.0,West Ham,Robert Jones
-2.0,Sun,2022-08-14,16:30,Chelsea,2.0,2.0,Tottenham,Anthony Taylor
-2.0,Mon,2022-08-15,20:00,Liverpool,1.0,1.0,Crystal Palace,Paul Tierney
-3.0,Sat,2022-08-20,12:30,Tottenham,1.0,0.0,Wolves,Simon Hooper
-3.0,Sat,2022-08-20,15:00,Leicester City,1.0,2.0,Southampton,Michael Salisbury
-3.0,Sat,2022-08-20,15:00,Everton,1.0,1.0,Nott'ham Forest,Andre Marriner
-3.0,Sat,2022-08-20,15:00,Crystal Palace,3.0,1.0,Aston Villa,Andy Madley
-3.0,Sat,2022-08-20,15:00,Fulham,3.0,2.0,Brentford,Peter Bankes
-3.0,Sat,2022-08-20,17:30,Bournemouth,0.0,3.0,Arsenal,Craig Pawson
-3.0,Sun,2022-08-21,14:00,Leeds United,3.0,0.0,Chelsea,Stuart Attwell
-3.0,Sun,2022-08-21,14:00,West Ham,0.0,2.0,Brighton,Anthony Taylor
-3.0,Sun,2022-08-21,16:30,Newcastle Utd,3.0,3.0,Manchester City,Jarred Gillett
-3.0,Mon,2022-08-22,20:00,Manchester Utd,2.0,1.0,Liverpool,Michael Oliver
-4.0,Sat,2022-08-27,12:30,Southampton,0.0,1.0,Manchester Utd,Andy Madley
-4.0,Sat,2022-08-27,15:00,Manchester City,4.0,2.0,Crystal Palace,Darren England
-4.0,Sat,2022-08-27,15:00,Brighton,1.0,0.0,Leeds United,Michael Salisbury
-4.0,Sat,2022-08-27,15:00,Chelsea,2.0,1.0,Leicester City,Paul Tierney
-4.0,Sat,2022-08-27,15:00,Brentford,1.0,1.0,Everton,John Brooks
-4.0,Sat,2022-08-27,15:00,Liverpool,9.0,0.0,Bournemouth,Stuart Attwell
-4.0,Sat,2022-08-27,17:30,Arsenal,2.0,1.0,Fulham,Jarred Gillett
-4.0,Sun,2022-08-28,14:00,Wolves,1.0,1.0,Newcastle Utd,Peter Bankes
-4.0,Sun,2022-08-28,14:00,Aston Villa,0.0,1.0,West Ham,David Coote
-4.0,Sun,2022-08-28,16:30,Nott'ham Forest,0.0,2.0,Tottenham,Craig Pawson
-5.0,Tue,2022-08-30,19:30,Fulham,2.0,1.0,Brighton,Thomas Bramall
-5.0,Tue,2022-08-30,19:30,Crystal Palace,1.0,1.0,Brentford,Simon Hooper
-5.0,Tue,2022-08-30,19:45,Southampton,2.0,1.0,Chelsea,Michael Oliver
-5.0,Tue,2022-08-30,20:00,Leeds United,1.0,1.0,Everton,Darren England
-5.0,Wed,2022-08-31,19:30,Bournemouth,0.0,0.0,Wolves,Anthony Taylor
-5.0,Wed,2022-08-31,19:30,Manchester City,6.0,0.0,Nott'ham Forest,Paul Tierney
-5.0,Wed,2022-08-31,19:30,Arsenal,2.0,1.0,Aston Villa,Robert Jones
-5.0,Wed,2022-08-31,19:45,West Ham,1.0,1.0,Tottenham,Peter Bankes
-5.0,Wed,2022-08-31,20:00,Liverpool,2.0,1.0,Newcastle Utd,Andre Marriner
-5.0,Thu,2022-09-01,20:00,Leicester City,0.0,1.0,Manchester Utd,Craig Pawson
-6.0,Sat,2022-09-03,12:30,Everton,0.0,0.0,Liverpool,Anthony Taylor
-6.0,Sat,2022-09-03,15:00,Nott'ham Forest,2.0,3.0,Bournemouth,Michael Oliver
-6.0,Sat,2022-09-03,15:00,Wolves,1.0,0.0,Southampton,John Brooks
-6.0,Sat,2022-09-03,15:00,Newcastle Utd,0.0,0.0,Crystal Palace,Michael Salisbury
-6.0,Sat,2022-09-03,15:00,Brentford,5.0,2.0,Leeds United,Robert Jones
-6.0,Sat,2022-09-03,15:00,Tottenham,2.0,1.0,Fulham,Stuart Attwell
-6.0,Sat,2022-09-03,15:00,Chelsea,2.0,1.0,West Ham,Andy Madley
-6.0,Sat,2022-09-03,17:30,Aston Villa,1.0,1.0,Manchester City,Simon Hooper
-6.0,Sun,2022-09-04,14:00,Brighton,5.0,2.0,Leicester City,Tony Harrington
-6.0,Sun,2022-09-04,16:30,Manchester Utd,3.0,1.0,Arsenal,Paul Tierney
-8.0,Fri,2022-09-16,20:00,Aston Villa,1.0,0.0,Southampton,Tony Harrington
-8.0,Fri,2022-09-16,20:00,Nott'ham Forest,2.0,3.0,Fulham,Jarred Gillett
-8.0,Sat,2022-09-17,12:30,Wolves,0.0,3.0,Manchester City,Anthony Taylor
-8.0,Sat,2022-09-17,15:00,Newcastle Utd,1.0,1.0,Bournemouth,Craig Pawson
-8.0,Sat,2022-09-17,17:30,Tottenham,6.0,2.0,Leicester City,Simon Hooper
-8.0,Sun,2022-09-18,12:00,Brentford,0.0,3.0,Arsenal,David Coote
-8.0,Sun,2022-09-18,14:15,Everton,1.0,0.0,West Ham,Michael Oliver
-9.0,Sat,2022-10-01,12:30,Arsenal,3.0,1.0,Tottenham,Anthony Taylor
-9.0,Sat,2022-10-01,15:00,Southampton,1.0,2.0,Everton,Andre Marriner
-9.0,Sat,2022-10-01,15:00,Crystal Palace,1.0,2.0,Chelsea,Chris Kavanagh
-9.0,Sat,2022-10-01,15:00,Liverpool,3.0,3.0,Brighton,Andy Madley
-9.0,Sat,2022-10-01,15:00,Fulham,1.0,4.0,Newcastle Utd,Darren England
-9.0,Sat,2022-10-01,15:00,Bournemouth,0.0,0.0,Brentford,Thomas Bramall
-9.0,Sat,2022-10-01,17:30,West Ham,2.0,0.0,Wolves,Paul Tierney
-9.0,Sun,2022-10-02,14:00,Manchester City,6.0,3.0,Manchester Utd,Michael Oliver
-9.0,Sun,2022-10-02,16:30,Leeds United,0.0,0.0,Aston Villa,Stuart Attwell
-9.0,Mon,2022-10-03,20:00,Leicester City,4.0,0.0,Nott'ham Forest,Robert Jones
-10.0,Sat,2022-10-08,15:00,Bournemouth,2.0,1.0,Leicester City,Michael Salisbury
-10.0,Sat,2022-10-08,15:00,Newcastle Utd,5.0,1.0,Brentford,John Brooks
-10.0,Sat,2022-10-08,15:00,Manchester City,4.0,0.0,Southampton,Andy Madley
-10.0,Sat,2022-10-08,15:00,Chelsea,3.0,0.0,Wolves,Simon Hooper
-10.0,Sat,2022-10-08,17:30,Brighton,0.0,1.0,Tottenham,Tony Harrington
-10.0,Sun,2022-10-09,14:00,West Ham,3.0,1.0,Fulham,Chris Kavanagh
-10.0,Sun,2022-10-09,14:00,Crystal Palace,2.0,1.0,Leeds United,Paul Tierney
-10.0,Sun,2022-10-09,16:30,Arsenal,3.0,2.0,Liverpool,Michael Oliver
-10.0,Sun,2022-10-09,19:00,Everton,1.0,2.0,Manchester Utd,David Coote
-10.0,Mon,2022-10-10,20:00,Nott'ham Forest,1.0,1.0,Aston Villa,Anthony Taylor
-11.0,Fri,2022-10-14,20:00,Brentford,2.0,0.0,Brighton,Michael Salisbury
-11.0,Sat,2022-10-15,12:30,Leicester City,0.0,0.0,Crystal Palace,Andy Madley
-11.0,Sat,2022-10-15,15:00,Fulham,2.0,2.0,Bournemouth,Graham Scott
-11.0,Sat,2022-10-15,15:00,Wolves,1.0,0.0,Nott'ham Forest,Thomas Bramall
-11.0,Sat,2022-10-15,17:30,Tottenham,2.0,0.0,Everton,Paul Tierney
-11.0,Sun,2022-10-16,14:00,Southampton,1.0,1.0,West Ham,Peter Bankes
-11.0,Sun,2022-10-16,14:00,Aston Villa,0.0,2.0,Chelsea,Robert Jones
-11.0,Sun,2022-10-16,14:00,Leeds United,0.0,1.0,Arsenal,Chris Kavanagh
-11.0,Sun,2022-10-16,14:00,Manchester Utd,0.0,0.0,Newcastle Utd,Craig Pawson
-11.0,Sun,2022-10-16,16:30,Liverpool,1.0,0.0,Manchester City,Anthony Taylor
-12.0,Tue,2022-10-18,19:30,Brighton,0.0,0.0,Nott'ham Forest,Darren England
-12.0,Tue,2022-10-18,20:15,Crystal Palace,2.0,1.0,Wolves,David Coote
-12.0,Wed,2022-10-19,19:30,Bournemouth,0.0,1.0,Southampton,John Brooks
-12.0,Wed,2022-10-19,19:30,Brentford,0.0,0.0,Chelsea,Jarred Gillett
-12.0,Wed,2022-10-19,19:30,Liverpool,1.0,0.0,West Ham,Stuart Attwell
-12.0,Wed,2022-10-19,19:30,Newcastle Utd,1.0,0.0,Everton,Tony Harrington
-12.0,Wed,2022-10-19,20:15,Manchester Utd,2.0,0.0,Tottenham,Simon Hooper
-12.0,Thu,2022-10-20,19:30,Fulham,3.0,0.0,Aston Villa,Michael Oliver
-12.0,Thu,2022-10-20,20:15,Leicester City,2.0,0.0,Leeds United,Peter Bankes
-13.0,Sat,2022-10-22,12:30,Nott'ham Forest,1.0,0.0,Liverpool,Paul Tierney
-13.0,Sat,2022-10-22,15:00,Everton,3.0,0.0,Crystal Palace,Simon Hooper
-13.0,Sat,2022-10-22,15:00,Manchester City,3.0,1.0,Brighton,Craig Pawson
-13.0,Sat,2022-10-22,17:30,Chelsea,1.0,1.0,Manchester Utd,Stuart Attwell
-13.0,Sun,2022-10-23,14:00,Aston Villa,4.0,0.0,Brentford,Darren England
-13.0,Sun,2022-10-23,14:00,Wolves,0.0,4.0,Leicester City,Michael Oliver
-13.0,Sun,2022-10-23,14:00,Leeds United,2.0,3.0,Fulham,Anthony Taylor
-13.0,Sun,2022-10-23,14:00,Southampton,1.0,1.0,Arsenal,Robert Jones
-13.0,Sun,2022-10-23,16:30,Tottenham,1.0,2.0,Newcastle Utd,Jarred Gillett
-13.0,Mon,2022-10-24,20:00,West Ham,2.0,0.0,Bournemouth,David Coote
-14.0,Sat,2022-10-29,12:30,Leicester City,0.0,1.0,Manchester City,Robert Jones
-14.0,Sat,2022-10-29,15:00,Brentford,1.0,1.0,Wolves,Robert Madley
-14.0,Sat,2022-10-29,15:00,Crystal Palace,1.0,0.0,Southampton,Michael Salisbury
-14.0,Sat,2022-10-29,15:00,Newcastle Utd,4.0,0.0,Aston Villa,Paul Tierney
-14.0,Sat,2022-10-29,15:00,Brighton,4.0,1.0,Chelsea,Andy Madley
-14.0,Sat,2022-10-29,15:00,Bournemouth,2.0,3.0,Tottenham,Anthony Taylor
-14.0,Sat,2022-10-29,17:30,Fulham,0.0,0.0,Everton,John Brooks
-14.0,Sat,2022-10-29,19:45,Liverpool,1.0,2.0,Leeds United,Michael Oliver
-14.0,Sun,2022-10-30,14:00,Arsenal,5.0,0.0,Nott'ham Forest,Simon Hooper
-14.0,Sun,2022-10-30,16:15,Manchester Utd,1.0,0.0,West Ham,Chris Kavanagh
-15.0,Sat,2022-11-05,15:00,Nott'ham Forest,2.0,2.0,Brentford,Andre Marriner
-15.0,Sat,2022-11-05,15:00,Leeds United,4.0,3.0,Bournemouth,Tony Harrington
-15.0,Sat,2022-11-05,15:00,Manchester City,2.0,1.0,Fulham,Darren England
-15.0,Sat,2022-11-05,15:00,Wolves,2.0,3.0,Brighton,Graham Scott
-15.0,Sat,2022-11-05,17:30,Everton,0.0,2.0,Leicester City,David Coote
-15.0,Sun,2022-11-06,12:00,Chelsea,0.0,1.0,Arsenal,Michael Oliver
-15.0,Sun,2022-11-06,14:00,West Ham,1.0,2.0,Crystal Palace,Paul Tierney
-15.0,Sun,2022-11-06,14:00,Southampton,1.0,4.0,Newcastle Utd,Stuart Attwell
-15.0,Sun,2022-11-06,14:00,Aston Villa,3.0,1.0,Manchester Utd,Anthony Taylor
-15.0,Sun,2022-11-06,16:30,Tottenham,1.0,2.0,Liverpool,Andy Madley
-16.0,Sat,2022-11-12,12:30,Manchester City,1.0,2.0,Brentford,Peter Bankes
-16.0,Sat,2022-11-12,15:00,Tottenham,4.0,3.0,Leeds United,Michael Salisbury
-16.0,Sat,2022-11-12,15:00,Liverpool,3.0,1.0,Southampton,Simon Hooper
-16.0,Sat,2022-11-12,15:00,Bournemouth,3.0,0.0,Everton,Craig Pawson
-16.0,Sat,2022-11-12,15:00,West Ham,0.0,2.0,Leicester City,Jarred Gillett
-16.0,Sat,2022-11-12,15:00,Nott'ham Forest,1.0,0.0,Crystal Palace,John Brooks
-16.0,Sat,2022-11-12,17:30,Newcastle Utd,1.0,0.0,Chelsea,Robert Jones
-16.0,Sat,2022-11-12,19:45,Wolves,0.0,2.0,Arsenal,Stuart Attwell
-16.0,Sun,2022-11-13,14:00,Brighton,1.0,2.0,Aston Villa,Chris Kavanagh
-16.0,Sun,2022-11-13,16:30,Fulham,1.0,2.0,Manchester Utd,Paul Tierney
-17.0,Mon,2022-12-26,12:30,Brentford,2.0,2.0,Tottenham,David Coote
-17.0,Mon,2022-12-26,15:00,Southampton,1.0,3.0,Brighton,Robert Jones
-17.0,Mon,2022-12-26,15:00,Leicester City,0.0,3.0,Newcastle Utd,Jarred Gillett
-17.0,Mon,2022-12-26,15:00,Crystal Palace,0.0,3.0,Fulham,Andy Madley
-17.0,Mon,2022-12-26,15:00,Everton,1.0,2.0,Wolves,Craig Pawson
-17.0,Mon,2022-12-26,17:30,Aston Villa,1.0,3.0,Liverpool,Paul Tierney
-17.0,Mon,2022-12-26,20:00,Arsenal,3.0,1.0,West Ham,Michael Oliver
-17.0,Tue,2022-12-27,17:30,Chelsea,2.0,0.0,Bournemouth,Simon Hooper
-17.0,Tue,2022-12-27,20:00,Manchester Utd,3.0,0.0,Nott'ham Forest,Anthony Taylor
-17.0,Wed,2022-12-28,20:00,Leeds United,1.0,3.0,Manchester City,Stuart Attwell
-18.0,Fri,2022-12-30,19:45,West Ham,0.0,2.0,Brentford,Darren England
-18.0,Fri,2022-12-30,20:00,Liverpool,2.0,1.0,Leicester City,Craig Pawson
-18.0,Sat,2022-12-31,12:30,Wolves,0.0,1.0,Manchester Utd,Robert Jones
-18.0,Sat,2022-12-31,15:00,Newcastle Utd,0.0,0.0,Leeds United,Simon Hooper
-18.0,Sat,2022-12-31,15:00,Fulham,2.0,1.0,Southampton,Graham Scott
-18.0,Sat,2022-12-31,15:00,Manchester City,1.0,1.0,Everton,Andy Madley
-18.0,Sat,2022-12-31,15:00,Bournemouth,0.0,2.0,Crystal Palace,Andre Marriner
-18.0,Sat,2022-12-31,17:30,Brighton,2.0,4.0,Arsenal,Anthony Taylor
-18.0,Sun,2023-01-01,14:00,Tottenham,0.0,2.0,Aston Villa,John Brooks
-18.0,Sun,2023-01-01,16:30,Nott'ham Forest,1.0,1.0,Chelsea,Peter Bankes
-19.0,Mon,2023-01-02,17:30,Brentford,3.0,1.0,Liverpool,Stuart Attwell
-19.0,Tue,2023-01-03,19:45,Leicester City,0.0,1.0,Fulham,Darren Bond
-19.0,Tue,2023-01-03,19:45,Everton,1.0,4.0,Brighton,Andre Marriner
-19.0,Tue,2023-01-03,19:45,Arsenal,0.0,0.0,Newcastle Utd,Andy Madley
-19.0,Tue,2023-01-03,20:00,Manchester Utd,3.0,0.0,Bournemouth,Michael Salisbury
-19.0,Wed,2023-01-04,19:30,Southampton,0.0,1.0,Nott'ham Forest,Thomas Bramall
-19.0,Wed,2023-01-04,19:45,Leeds United,2.0,2.0,West Ham,David Coote
-19.0,Wed,2023-01-04,20:00,Aston Villa,1.0,1.0,Wolves,Jarred Gillett
-19.0,Wed,2023-01-04,20:00,Crystal Palace,0.0,4.0,Tottenham,Michael Oliver
-19.0,Thu,2023-01-05,20:00,Chelsea,0.0,1.0,Manchester City,Paul Tierney
-7.0,Thu,2023-01-12,20:00,Fulham,2.0,1.0,Chelsea,David Coote
-20.0,Fri,2023-01-13,20:00,Aston Villa,2.0,1.0,Leeds United,Michael Oliver
-20.0,Sat,2023-01-14,12:30,Manchester Utd,2.0,1.0,Manchester City,Stuart Attwell
-20.0,Sat,2023-01-14,15:00,Everton,1.0,2.0,Southampton,John Brooks
-20.0,Sat,2023-01-14,15:00,Wolves,1.0,0.0,West Ham,Simon Hooper
-20.0,Sat,2023-01-14,15:00,Nott'ham Forest,2.0,0.0,Leicester City,Paul Tierney
-20.0,Sat,2023-01-14,15:00,Brighton,3.0,0.0,Liverpool,Darren England
-20.0,Sat,2023-01-14,17:30,Brentford,2.0,0.0,Bournemouth,Jarred Gillett
-20.0,Sun,2023-01-15,14:00,Chelsea,1.0,0.0,Crystal Palace,Peter Bankes
-20.0,Sun,2023-01-15,14:00,Newcastle Utd,1.0,0.0,Fulham,Robert Jones
-20.0,Sun,2023-01-15,16:30,Tottenham,0.0,2.0,Arsenal,Craig Pawson
-7.0,Wed,2023-01-18,20:00,Crystal Palace,1.0,1.0,Manchester Utd,Robert Jones
-7.0,Thu,2023-01-19,20:00,Manchester City,4.0,2.0,Tottenham,Simon Hooper
-21.0,Sat,2023-01-21,12:30,Liverpool,0.0,0.0,Chelsea,Michael Oliver
-21.0,Sat,2023-01-21,15:00,Bournemouth,1.0,1.0,Nott'ham Forest,Andy Madley
-21.0,Sat,2023-01-21,15:00,Southampton,0.0,1.0,Aston Villa,Michael Salisbury
-21.0,Sat,2023-01-21,15:00,Leicester City,2.0,2.0,Brighton,Thomas Bramall
-21.0,Sat,2023-01-21,15:00,West Ham,2.0,0.0,Everton,Stuart Attwell
-21.0,Sat,2023-01-21,17:30,Crystal Palace,0.0,0.0,Newcastle Utd,Craig Pawson
-21.0,Sun,2023-01-22,14:00,Manchester City,3.0,0.0,Wolves,David Coote
-21.0,Sun,2023-01-22,14:00,Leeds United,0.0,0.0,Brentford,Peter Bankes
-21.0,Sun,2023-01-22,16:30,Arsenal,3.0,2.0,Manchester Utd,Anthony Taylor
-21.0,Mon,2023-01-23,20:00,Fulham,0.0,1.0,Tottenham,Paul Tierney
-22.0,Fri,2023-02-03,20:00,Chelsea,0.0,0.0,Fulham,Stuart Attwell
-22.0,Sat,2023-02-04,12:30,Everton,1.0,0.0,Arsenal,David Coote
-22.0,Sat,2023-02-04,15:00,Aston Villa,2.0,4.0,Leicester City,Darren England
-22.0,Sat,2023-02-04,15:00,Wolves,3.0,0.0,Liverpool,Paul Tierney
-22.0,Sat,2023-02-04,15:00,Manchester Utd,2.0,1.0,Crystal Palace,Andre Marriner
-22.0,Sat,2023-02-04,15:00,Brighton,1.0,0.0,Bournemouth,Craig Pawson
-22.0,Sat,2023-02-04,15:00,Brentford,3.0,0.0,Southampton,Darren Bond
-22.0,Sat,2023-02-04,17:30,Newcastle Utd,1.0,1.0,West Ham,Peter Bankes
-22.0,Sun,2023-02-05,14:00,Nott'ham Forest,1.0,0.0,Leeds United,Robert Jones
-22.0,Sun,2023-02-05,16:30,Tottenham,1.0,0.0,Manchester City,Andy Madley
-8.0,Wed,2023-02-08,20:00,Manchester Utd,2.0,2.0,Leeds United,Simon Hooper
-23.0,Sat,2023-02-11,12:30,West Ham,1.0,1.0,Chelsea,Craig Pawson
-23.0,Sat,2023-02-11,15:00,Leicester City,4.0,1.0,Tottenham,Michael Salisbury
-23.0,Sat,2023-02-11,15:00,Crystal Palace,1.0,1.0,Brighton,Michael Oliver
-23.0,Sat,2023-02-11,15:00,Arsenal,1.0,1.0,Brentford,Peter Bankes
-23.0,Sat,2023-02-11,15:00,Southampton,1.0,2.0,Wolves,Jarred Gillett
-23.0,Sat,2023-02-11,15:00,Fulham,2.0,0.0,Nott'ham Forest,Andy Madley
-23.0,Sat,2023-02-11,17:30,Bournemouth,1.0,1.0,Newcastle Utd,Stuart Attwell
-23.0,Sun,2023-02-12,14:00,Leeds United,0.0,2.0,Manchester Utd,Paul Tierney
-23.0,Sun,2023-02-12,16:30,Manchester City,3.0,1.0,Aston Villa,Robert Jones
-23.0,Mon,2023-02-13,20:00,Liverpool,2.0,0.0,Everton,Simon Hooper
-12.0,Wed,2023-02-15,19:30,Arsenal,1.0,3.0,Manchester City,Anthony Taylor
-24.0,Sat,2023-02-18,12:30,Aston Villa,2.0,4.0,Arsenal,Simon Hooper
-24.0,Sat,2023-02-18,15:00,Brighton,0.0,1.0,Fulham,Darren England
-24.0,Sat,2023-02-18,15:00,Nott'ham Forest,1.0,1.0,Manchester City,Graham Scott
-24.0,Sat,2023-02-18,15:00,Chelsea,0.0,1.0,Southampton,David Coote
-24.0,Sat,2023-02-18,15:00,Everton,1.0,0.0,Leeds United,Andy Madley
-24.0,Sat,2023-02-18,15:00,Wolves,0.0,1.0,Bournemouth,Michael Salisbury
-24.0,Sat,2023-02-18,15:00,Brentford,1.0,1.0,Crystal Palace,Paul Tierney
-24.0,Sat,2023-02-18,17:30,Newcastle Utd,0.0,2.0,Liverpool,Anthony Taylor
-24.0,Sun,2023-02-19,14:00,Manchester Utd,3.0,0.0,Leicester City,Stuart Attwell
-24.0,Sun,2023-02-19,16:30,Tottenham,2.0,0.0,West Ham,Michael Oliver
-25.0,Fri,2023-02-24,20:00,Fulham,1.0,1.0,Wolves,Michael Oliver
-25.0,Sat,2023-02-25,15:00,Leicester City,0.0,1.0,Arsenal,Craig Pawson
-25.0,Sat,2023-02-25,15:00,Everton,0.0,2.0,Aston Villa,Anthony Taylor
-25.0,Sat,2023-02-25,15:00,West Ham,4.0,0.0,Nott'ham Forest,Jarred Gillett
-25.0,Sat,2023-02-25,15:00,Leeds United,1.0,0.0,Southampton,Peter Bankes
-25.0,Sat,2023-02-25,17:30,Bournemouth,1.0,4.0,Manchester City,Paul Tierney
-25.0,Sat,2023-02-25,19:45,Crystal Palace,0.0,0.0,Liverpool,Darren England
-25.0,Sun,2023-02-26,13:30,Tottenham,2.0,0.0,Chelsea,Stuart Attwell
-7.0,Wed,2023-03-01,19:45,Arsenal,4.0,0.0,Everton,Michael Oliver
-7.0,Wed,2023-03-01,20:00,Liverpool,2.0,0.0,Wolves,Paul Tierney
-26.0,Sat,2023-03-04,12:30,Manchester City,2.0,0.0,Newcastle Utd,Simon Hooper
-26.0,Sat,2023-03-04,15:00,Arsenal,3.0,2.0,Bournemouth,Chris Kavanagh
-26.0,Sat,2023-03-04,15:00,Aston Villa,1.0,0.0,Crystal Palace,Craig Pawson
-26.0,Sat,2023-03-04,15:00,Chelsea,1.0,0.0,Leeds United,Michael Oliver
-26.0,Sat,2023-03-04,15:00,Brighton,4.0,0.0,West Ham,Stuart Attwell
-26.0,Sat,2023-03-04,15:00,Wolves,1.0,0.0,Tottenham,Tim Robinson
-26.0,Sat,2023-03-04,17:30,Southampton,1.0,0.0,Leicester City,Robert Jones
-26.0,Sun,2023-03-05,14:00,Nott'ham Forest,2.0,2.0,Everton,John Brooks
-26.0,Sun,2023-03-05,16:30,Liverpool,7.0,0.0,Manchester Utd,Andy Madley
-26.0,Mon,2023-03-06,20:00,Brentford,3.0,2.0,Fulham,Anthony Taylor
-27.0,Sat,2023-03-11,12:30,Bournemouth,1.0,0.0,Liverpool,John Brooks
-27.0,Sat,2023-03-11,15:00,Leeds United,2.0,2.0,Brighton,Paul Tierney
-27.0,Sat,2023-03-11,15:00,Everton,1.0,0.0,Brentford,Simon Hooper
-27.0,Sat,2023-03-11,15:00,Leicester City,1.0,3.0,Chelsea,Andre Marriner
-27.0,Sat,2023-03-11,15:00,Tottenham,3.0,1.0,Nott'ham Forest,Craig Pawson
-27.0,Sat,2023-03-11,17:30,Crystal Palace,0.0,1.0,Manchester City,Robert Jones
-27.0,Sun,2023-03-12,14:00,Manchester Utd,0.0,0.0,Southampton,Anthony Taylor
-27.0,Sun,2023-03-12,14:00,Fulham,0.0,3.0,Arsenal,David Coote
-27.0,Sun,2023-03-12,14:00,West Ham,1.0,1.0,Aston Villa,Chris Kavanagh
-27.0,Sun,2023-03-12,16:30,Newcastle Utd,2.0,1.0,Wolves,Andy Madley
-7.0,Wed,2023-03-15,19:30,Southampton,0.0,2.0,Brentford,Michael Salisbury
-8.0,Wed,2023-03-15,19:30,Brighton,1.0,0.0,Crystal Palace,Peter Bankes
-28.0,Fri,2023-03-17,20:00,Nott'ham Forest,1.0,2.0,Newcastle Utd,Paul Tierney
-28.0,Sat,2023-03-18,15:00,Wolves,2.0,4.0,Leeds United,Michael Salisbury
-28.0,Sat,2023-03-18,15:00,Brentford,1.0,1.0,Leicester City,Darren Bond
-28.0,Sat,2023-03-18,15:00,Aston Villa,3.0,0.0,Bournemouth,Robert Jones
-28.0,Sat,2023-03-18,15:00,Southampton,3.0,3.0,Tottenham,Simon Hooper
-28.0,Sat,2023-03-18,17:30,Chelsea,2.0,2.0,Everton,Darren England
-28.0,Sun,2023-03-19,14:00,Arsenal,4.0,1.0,Crystal Palace,Stuart Attwell
-29.0,Sat,2023-04-01,12:30,Manchester City,4.0,1.0,Liverpool,Simon Hooper
-29.0,Sat,2023-04-01,15:00,Arsenal,4.0,1.0,Leeds United,Darren England
-29.0,Sat,2023-04-01,15:00,Nott'ham Forest,1.0,1.0,Wolves,Chris Kavanagh
-29.0,Sat,2023-04-01,15:00,Brighton,3.0,3.0,Brentford,Michael Oliver
-29.0,Sat,2023-04-01,15:00,Crystal Palace,2.0,1.0,Leicester City,Tim Robinson
-29.0,Sat,2023-04-01,15:00,Bournemouth,2.0,1.0,Fulham,Peter Bankes
-29.0,Sat,2023-04-01,17:30,Chelsea,0.0,2.0,Aston Villa,Andy Madley
-29.0,Sun,2023-04-02,14:00,West Ham,1.0,0.0,Southampton,Paul Tierney
-29.0,Sun,2023-04-02,16:30,Newcastle Utd,2.0,0.0,Manchester Utd,Stuart Attwell
-29.0,Mon,2023-04-03,20:00,Everton,1.0,1.0,Tottenham,David Coote
-7.0,Tue,2023-04-04,19:45,Leeds United,2.0,1.0,Nott'ham Forest,Robert Jones
-7.0,Tue,2023-04-04,19:45,Bournemouth,0.0,2.0,Brighton,Darren Bond
-7.0,Tue,2023-04-04,19:45,Leicester City,1.0,2.0,Aston Villa,Graham Scott
-8.0,Tue,2023-04-04,20:00,Chelsea,0.0,0.0,Liverpool,Anthony Taylor
-7.0,Wed,2023-04-05,20:00,West Ham,1.0,5.0,Newcastle Utd,Craig Pawson
-25.0,Wed,2023-04-05,20:00,Manchester Utd,1.0,0.0,Brentford,John Brooks
-30.0,Sat,2023-04-08,12:30,Manchester Utd,2.0,0.0,Everton,Michael Oliver
-30.0,Sat,2023-04-08,15:00,Fulham,0.0,1.0,West Ham,Jarred Gillett
-30.0,Sat,2023-04-08,15:00,Aston Villa,2.0,0.0,Nott'ham Forest,Anthony Taylor
-30.0,Sat,2023-04-08,15:00,Leicester City,0.0,1.0,Bournemouth,David Coote
-30.0,Sat,2023-04-08,15:00,Brentford,1.0,2.0,Newcastle Utd,Chris Kavanagh
-30.0,Sat,2023-04-08,15:00,Wolves,1.0,0.0,Chelsea,Peter Bankes
-30.0,Sat,2023-04-08,15:00,Tottenham,2.0,1.0,Brighton,Stuart Attwell
-30.0,Sat,2023-04-08,17:30,Southampton,1.0,4.0,Manchester City,Robert Jones
-30.0,Sun,2023-04-09,14:00,Leeds United,1.0,5.0,Crystal Palace,Simon Hooper
-30.0,Sun,2023-04-09,16:30,Liverpool,2.0,2.0,Arsenal,Paul Tierney
-31.0,Sat,2023-04-15,12:30,Aston Villa,3.0,0.0,Newcastle Utd,John Brooks
-31.0,Sat,2023-04-15,15:00,Chelsea,1.0,2.0,Brighton,Robert Jones
-31.0,Sat,2023-04-15,15:00,Southampton,0.0,2.0,Crystal Palace,Michael Oliver
-31.0,Sat,2023-04-15,15:00,Wolves,2.0,0.0,Brentford,Paul Tierney
-31.0,Sat,2023-04-15,15:00,Tottenham,2.0,3.0,Bournemouth,Andy Madley
-31.0,Sat,2023-04-15,15:00,Everton,1.0,3.0,Fulham,Anthony Taylor
-31.0,Sat,2023-04-15,17:30,Manchester City,3.0,1.0,Leicester City,Darren England
-31.0,Sun,2023-04-16,14:00,West Ham,2.0,2.0,Arsenal,David Coote
-31.0,Sun,2023-04-16,16:30,Nott'ham Forest,0.0,2.0,Manchester Utd,Simon Hooper
-31.0,Mon,2023-04-17,20:00,Leeds United,1.0,6.0,Liverpool,Craig Pawson
-32.0,Fri,2023-04-21,20:00,Arsenal,3.0,3.0,Southampton,Simon Hooper
-32.0,Sat,2023-04-22,12:30,Fulham,2.0,1.0,Leeds United,Peter Bankes
-32.0,Sat,2023-04-22,15:00,Crystal Palace,0.0,0.0,Everton,John Brooks
-32.0,Sat,2023-04-22,15:00,Brentford,1.0,1.0,Aston Villa,Michael Salisbury
-32.0,Sat,2023-04-22,15:00,Liverpool,3.0,2.0,Nott'ham Forest,Michael Oliver
-32.0,Sat,2023-04-22,15:00,Leicester City,2.0,1.0,Wolves,Andy Madley
-32.0,Sun,2023-04-23,14:00,Bournemouth,0.0,4.0,West Ham,Anthony Taylor
-32.0,Sun,2023-04-23,14:00,Newcastle Utd,6.0,1.0,Tottenham,David Coote
-33.0,Tue,2023-04-25,19:30,Wolves,2.0,0.0,Crystal Palace,Robert Jones
-33.0,Tue,2023-04-25,19:45,Aston Villa,1.0,0.0,Fulham,Thomas Bramall
-33.0,Tue,2023-04-25,20:00,Leeds United,1.0,1.0,Leicester City,Paul Tierney
-33.0,Wed,2023-04-26,19:30,Nott'ham Forest,3.0,1.0,Brighton,Jarred Gillett
-33.0,Wed,2023-04-26,19:45,Chelsea,0.0,2.0,Brentford,Andy Madley
-33.0,Wed,2023-04-26,19:45,West Ham,1.0,2.0,Liverpool,Chris Kavanagh
-33.0,Wed,2023-04-26,20:00,Manchester City,4.0,1.0,Arsenal,Michael Oliver
-33.0,Thu,2023-04-27,19:45,Everton,1.0,4.0,Newcastle Utd,Andre Marriner
-33.0,Thu,2023-04-27,19:45,Southampton,0.0,1.0,Bournemouth,Darren England
-33.0,Thu,2023-04-27,20:15,Tottenham,2.0,2.0,Manchester Utd,Anthony Taylor
-34.0,Sat,2023-04-29,12:30,Crystal Palace,4.0,3.0,West Ham,Craig Pawson
-34.0,Sat,2023-04-29,15:00,Brighton,6.0,0.0,Wolves,David Coote
-34.0,Sat,2023-04-29,15:00,Brentford,2.0,1.0,Nott'ham Forest,Peter Bankes
-34.0,Sun,2023-04-30,14:00,Manchester Utd,1.0,0.0,Aston Villa,Jarred Gillett
-34.0,Sun,2023-04-30,14:00,Bournemouth,4.0,1.0,Leeds United,Chris Kavanagh
-34.0,Sun,2023-04-30,14:00,Newcastle Utd,3.0,1.0,Southampton,Anthony Taylor
-34.0,Sun,2023-04-30,14:00,Fulham,1.0,2.0,Manchester City,Simon Hooper
-34.0,Sun,2023-04-30,16:30,Liverpool,4.0,3.0,Tottenham,Paul Tierney
-34.0,Mon,2023-05-01,20:00,Leicester City,2.0,2.0,Everton,Michael Oliver
-34.0,Tue,2023-05-02,20:00,Arsenal,3.0,1.0,Chelsea,Robert Jones
-28.0,Wed,2023-05-03,20:00,Liverpool,1.0,0.0,Fulham,Stuart Attwell
-28.0,Wed,2023-05-03,20:00,Manchester City,3.0,0.0,West Ham,John Brooks
-28.0,Thu,2023-05-04,20:00,Brighton,1.0,0.0,Manchester Utd,Andre Marriner
-35.0,Sat,2023-05-06,15:00,Tottenham,1.0,0.0,Crystal Palace,Darren England
-35.0,Sat,2023-05-06,15:00,Wolves,1.0,0.0,Aston Villa,Stuart Attwell
-35.0,Sat,2023-05-06,15:00,Bournemouth,1.0,3.0,Chelsea,John Brooks
-35.0,Sat,2023-05-06,15:00,Manchester City,2.0,1.0,Leeds United,Andy Madley
-35.0,Sat,2023-05-06,17:30,Liverpool,1.0,0.0,Brentford,Anthony Taylor
-35.0,Sun,2023-05-07,16:30,Newcastle Utd,0.0,2.0,Arsenal,Chris Kavanagh
-35.0,Sun,2023-05-07,19:00,West Ham,1.0,0.0,Manchester Utd,Peter Bankes
-35.0,Mon,2023-05-08,15:00,Fulham,5.0,3.0,Leicester City,Robert Jones
-35.0,Mon,2023-05-08,17:30,Brighton,1.0,5.0,Everton,Simon Hooper
-35.0,Mon,2023-05-08,20:00,Nott'ham Forest,4.0,3.0,Southampton,Michael Oliver
-36.0,Sat,2023-05-13,12:30,Leeds United,2.0,2.0,Newcastle Utd,Simon Hooper
-36.0,Sat,2023-05-13,15:00,Aston Villa,2.0,1.0,Tottenham,Peter Bankes
-36.0,Sat,2023-05-13,15:00,Chelsea,2.0,2.0,Nott'ham Forest,Paul Tierney
-36.0,Sat,2023-05-13,15:00,Crystal Palace,2.0,0.0,Bournemouth,Michael Salisbury
-36.0,Sat,2023-05-13,15:00,Southampton,0.0,2.0,Fulham,Thomas Bramall
-36.0,Sat,2023-05-13,15:00,Manchester Utd,2.0,0.0,Wolves,John Brooks
-36.0,Sun,2023-05-14,14:00,Everton,0.0,3.0,Manchester City,Anthony Taylor
-36.0,Sun,2023-05-14,14:00,Brentford,2.0,0.0,West Ham,Michael Oliver
-36.0,Sun,2023-05-14,16:30,Arsenal,0.0,3.0,Brighton,Andy Madley
-36.0,Mon,2023-05-15,20:00,Leicester City,0.0,3.0,Liverpool,Craig Pawson
-25.0,Thu,2023-05-18,19:30,Newcastle Utd,4.0,1.0,Brighton,Robert Jones
-37.0,Sat,2023-05-20,12:30,Tottenham,1.0,3.0,Brentford,Jarred Gillett
-37.0,Sat,2023-05-20,15:00,Liverpool,1.0,1.0,Aston Villa,John Brooks
-37.0,Sat,2023-05-20,15:00,Fulham,2.0,2.0,Crystal Palace,Joshua Smith
-37.0,Sat,2023-05-20,15:00,Bournemouth,0.0,1.0,Manchester Utd,Chris Kavanagh
-37.0,Sat,2023-05-20,15:00,Wolves,1.0,1.0,Everton,David Coote
-37.0,Sat,2023-05-20,17:30,Nott'ham Forest,1.0,0.0,Arsenal,Anthony Taylor
-37.0,Sun,2023-05-21,13:30,West Ham,3.0,1.0,Leeds United,Peter Bankes
-37.0,Sun,2023-05-21,14:00,Brighton,3.0,1.0,Southampton,Paul Tierney
-37.0,Sun,2023-05-21,16:00,Manchester City,1.0,0.0,Chelsea,Michael Oliver
-37.0,Mon,2023-05-22,20:00,Newcastle Utd,0.0,0.0,Leicester City,Andre Marriner
-32.0,Wed,2023-05-24,20:00,Brighton,1.0,1.0,Manchester City,Simon Hooper
-32.0,Thu,2023-05-25,20:00,Manchester Utd,4.0,1.0,Chelsea,Stuart Attwell
-38.0,Sun,2023-05-28,16:30,Crystal Palace,1.0,1.0,Nott'ham Forest,Thomas Bramall
-38.0,Sun,2023-05-28,16:30,Chelsea,1.0,1.0,Newcastle Utd,Jarred Gillett
-38.0,Sun,2023-05-28,16:30,Manchester Utd,2.0,1.0,Fulham,Robert Jones
-38.0,Sun,2023-05-28,16:30,Arsenal,5.0,0.0,Wolves,Andre Marriner
-38.0,Sun,2023-05-28,16:30,Southampton,4.0,4.0,Liverpool,Darren England
-38.0,Sun,2023-05-28,16:30,Everton,1.0,0.0,Bournemouth,Stuart Attwell
-38.0,Sun,2023-05-28,16:30,Leicester City,2.0,1.0,West Ham,Simon Hooper
-38.0,Sun,2023-05-28,16:30,Aston Villa,2.0,1.0,Brighton,David Coote
-38.0,Sun,2023-05-28,16:30,Leeds United,1.0,4.0,Tottenham,Anthony Taylor
-38.0,Sun,2023-05-28,16:30,Brentford,1.0,0.0,Manchester City,John Brooks
+Wk,Day,Date,Time,Home,Away,Referee,Home Goals,Away Goals
+1.0,Sat,2023-04-01,15:00,Malmö,Kalmar,Mohammed Al Hakim,1.0,0.0
+1.0,Sat,2023-04-01,17:30,Djurgården,Brommapojkarna,Andreas Ekberg,3.0,1.0
+1.0,Sun,2023-04-02,15:00,Hammarby,Degerfors,Granit Maqedonci,3.0,1.0
+1.0,Sun,2023-04-02,15:00,Norrköping,Sirius,Fredrik Klitte,1.0,1.0
+1.0,Sun,2023-04-02,17:30,Göteborg,Värnamo,Adam Ladebäck,0.0,1.0
+1.0,Sun,2023-04-02,17:30,Halmstad,AIK Stockholm,Joakim Östling,2.0,1.0
+1.0,Mon,2023-04-03,19:00,Mjällby,Varberg,Victor Wolf,2.0,2.0
+1.0,Mon,2023-04-03,19:10,Elfsborg,Häcken,Glenn Nyberg,0.0,2.0
+2.0,Sat,2023-04-08,15:00,Brommapojkarna,Malmö,Victor Wolf,1.0,2.0
+2.0,Sat,2023-04-08,15:00,Degerfors,Halmstad,Adam Ladebäck,3.0,1.0
+2.0,Sun,2023-04-09,15:00,Häcken,Hammarby,Mohammed Al Hakim,3.0,1.0
+2.0,Sun,2023-04-09,17:30,Kalmar,Göteborg,Granit Maqedonci,2.0,0.0
+2.0,Sun,2023-04-09,17:30,Sirius,Djurgården,Joakim Östling,0.0,0.0
+2.0,Mon,2023-04-10,13:00,Värnamo,Mjällby,Fredrik Klitte,0.0,1.0
+2.0,Mon,2023-04-10,15:00,AIK Stockholm,Norrköping,Kristoffer Karlsson,0.0,3.0
+2.0,Mon,2023-04-10,15:00,Varberg,Elfsborg,Kaspar Sjöberg,0.0,0.0
+3.0,Sat,2023-04-15,15:00,Elfsborg,Brommapojkarna,Adam Ladebäck,5.0,0.0
+3.0,Sat,2023-04-15,17:30,Häcken,Kalmar,Kristoffer Karlsson,1.0,3.0
+3.0,Sun,2023-04-16,15:00,AIK Stockholm,Hammarby,Glenn Nyberg,2.0,0.0
+3.0,Sun,2023-04-16,15:00,Norrköping,Värnamo,Kaspar Sjöberg,2.0,1.0
+3.0,Sun,2023-04-16,17:30,Halmstad,Djurgården,Victor Wolf,2.0,0.0
+3.0,Sun,2023-04-16,17:30,Mjällby,Degerfors,Andreas Ekberg,2.0,0.0
+3.0,Mon,2023-04-17,19:00,Varberg,Sirius,Granit Maqedonci,1.0,1.0
+3.0,Mon,2023-04-17,19:10,Göteborg,Malmö,Fredrik Klitte,0.0,1.0
+4.0,Sat,2023-04-22,15:00,Hammarby,Varberg,Joakim Östling,2.0,0.0
+4.0,Sat,2023-04-22,17:30,Degerfors,Elfsborg,Oscar Johnson,1.0,2.0
+4.0,Sun,2023-04-23,15:00,Kalmar,Halmstad,Fredrik Klitte,2.0,0.0
+4.0,Sun,2023-04-23,15:00,Djurgården,Göteborg,Mohammed Al Hakim,1.0,0.0
+4.0,Sun,2023-04-23,17:30,Sirius,Häcken,Kaspar Sjöberg,1.0,4.0
+4.0,Mon,2023-04-24,19:00,Värnamo,AIK Stockholm,Granit Maqedonci,1.0,0.0
+4.0,Mon,2023-04-24,19:00,Brommapojkarna,Mjällby,Glenn Nyberg,2.0,0.0
+4.0,Mon,2023-04-24,19:10,Malmö,Norrköping,Adam Ladebäck,3.0,0.0
+5.0,Sat,2023-04-29,15:00,AIK Stockholm,Sirius,Fredrik Klitte,0.0,0.0
+5.0,Sat,2023-04-29,15:00,Mjällby,Elfsborg,Joakim Östling,0.0,1.0
+5.0,Sat,2023-04-29,17:30,Häcken,Värnamo,Andreas Ekberg,3.0,1.0
+5.0,Sat,2023-04-29,17:30,Halmstad,Brommapojkarna,Kristoffer Karlsson,0.0,2.0
+5.0,Sun,2023-04-30,15:00,Malmö,Hammarby,Mohammed Al Hakim,4.0,2.0
+5.0,Sun,2023-04-30,15:00,Varberg,Kalmar,Adam Ladebäck,0.0,0.0
+5.0,Sun,2023-04-30,17:30,Degerfors,Djurgården,Granit Maqedonci,2.0,1.0
+5.0,Mon,2023-05-01,15:00,Göteborg,Norrköping,Victor Wolf,1.0,1.0
+6.0,Wed,2023-05-03,19:00,Häcken,Djurgården,Glenn Nyberg,4.0,1.0
+6.0,Wed,2023-05-03,19:00,Mjällby,AIK Stockholm,Kaspar Sjöberg,0.0,0.0
+6.0,Wed,2023-05-03,19:00,Elfsborg,Halmstad,Adam Ladebäck,6.0,1.0
+6.0,Wed,2023-05-03,19:00,Kalmar,Sirius,Andreas Ekberg,2.0,2.0
+6.0,Thu,2023-05-04,19:00,Varberg,Malmö,Victor Wolf,0.0,6.0
+6.0,Thu,2023-05-04,19:00,Norrköping,Hammarby,Kristoffer Karlsson,2.0,0.0
+6.0,Thu,2023-05-04,19:00,Värnamo,Brommapojkarna,Joakim Östling,0.0,1.0
+6.0,Thu,2023-05-04,19:00,Göteborg,Degerfors,Mohammed Al Hakim,6.0,0.0
+7.0,Sun,2023-05-07,15:00,Malmö,AIK Stockholm,Glenn Nyberg,3.0,1.0
+7.0,Sun,2023-05-07,17:30,Halmstad,Häcken,Victor Wolf,1.0,0.0
+7.0,Mon,2023-05-08,19:00,Degerfors,Norrköping,Joakim Östling,0.0,2.0
+7.0,Mon,2023-05-08,19:00,Brommapojkarna,Göteborg,Andreas Ekberg,0.0,0.0
+7.0,Mon,2023-05-08,19:00,Sirius,Elfsborg,Mohammed Al Hakim,3.0,4.0
+7.0,Mon,2023-05-08,19:10,Djurgården,Kalmar,Fredrik Klitte,3.0,1.0
+7.0,Tue,2023-05-09,19:00,Hammarby,Mjällby,Granit Maqedonci,0.0,0.0
+7.0,Tue,2023-05-09,19:00,Värnamo,Varberg,Kaspar Sjöberg,3.0,1.0
+8.0,Sat,2023-05-13,15:00,Häcken,Degerfors,Adam Ladebäck,6.0,1.0
+8.0,Sat,2023-05-13,17:30,Varberg,Norrköping,Fredrik Klitte,1.0,3.0
+8.0,Sun,2023-05-14,15:00,Hammarby,Djurgården,Mohammed Al Hakim,4.0,3.0
+8.0,Sun,2023-05-14,15:00,Elfsborg,Värnamo,Granit Maqedonci,2.0,0.0
+8.0,Sun,2023-05-14,15:00,Mjällby,Sirius,Kristoffer Karlsson,3.0,0.0
+8.0,Sun,2023-05-14,17:30,Halmstad,Malmö,Andreas Ekberg,0.0,1.0
+8.0,Sun,2023-05-14,17:30,Kalmar,Brommapojkarna,Joakim Östling,1.0,3.0
+8.0,Mon,2023-05-15,19:10,AIK Stockholm,Göteborg,Victor Wolf,2.0,2.0
+9.0,Sat,2023-05-20,15:00,Degerfors,AIK Stockholm,Granit Maqedonci,2.0,1.0
+9.0,Sun,2023-05-21,15:00,Malmö,Häcken,Kristoffer Karlsson,2.0,2.0
+9.0,Sun,2023-05-21,15:00,Brommapojkarna,Varberg,Richard Sundell,2.0,1.0
+9.0,Sun,2023-05-21,15:00,Djurgården,Mjällby,Kaspar Sjöberg,2.0,0.0
+9.0,Sun,2023-05-21,17:30,Göteborg,Hammarby,Fredrik Klitte,1.0,1.0
+9.0,Sun,2023-05-21,17:30,Sirius,Halmstad,Mohammed Al Hakim,1.0,2.0
+9.0,Mon,2023-05-22,19:00,Värnamo,Kalmar,Oscar Johnson,0.0,1.0
+9.0,Mon,2023-05-22,19:10,Norrköping,Elfsborg,Andreas Ekberg,1.0,2.0
+18.0,Wed,2023-05-24,19:00,Djurgården,Häcken,Joakim Östling,1.0,0.0
+18.0,Thu,2023-05-25,19:00,Degerfors,Hammarby,Kaspar Sjöberg,2.0,2.0
+10.0,Sat,2023-05-27,15:00,Mjällby,Halmstad,Fredrik Klitte,0.0,2.0
+10.0,Sat,2023-05-27,17:30,Brommapojkarna,Sirius,Kristoffer Karlsson,1.0,2.0
+10.0,Sun,2023-05-28,15:00,Djurgården,AIK Stockholm,Andreas Ekberg,1.0,0.0
+10.0,Sun,2023-05-28,15:00,Kalmar,Norrköping,Adi Aganovic,2.0,1.0
+10.0,Sun,2023-05-28,17:30,Elfsborg,Malmö,Joakim Östling,3.0,0.0
+10.0,Mon,2023-05-29,19:00,Degerfors,Varberg,Victor Wolf,1.0,1.0
+10.0,Mon,2023-05-29,19:00,Hammarby,Värnamo,Mohammed Al Hakim,0.0,2.0
+10.0,Mon,2023-05-29,19:10,Häcken,Göteborg,Granit Maqedonci,4.0,1.0
+11.0,Sat,2023-06-03,15:00,Göteborg,Mjällby,Richard Sundell,0.0,1.0
+11.0,Sat,2023-06-03,17:30,Norrköping,Brommapojkarna,Mohammed Al Hakim,0.0,2.0
+11.0,Sun,2023-06-04,15:00,AIK Stockholm,Kalmar,Joakim Östling,1.0,1.0
+11.0,Sun,2023-06-04,15:00,Halmstad,Hammarby,Victor Wolf,0.0,0.0
+11.0,Sun,2023-06-04,17:30,Sirius,Värnamo,Fredrik Klitte,2.0,0.0
+11.0,Sun,2023-06-04,17:30,Elfsborg,Djurgården,Kristoffer Karlsson,1.0,1.0
+11.0,Mon,2023-06-05,19:00,Varberg,Häcken,Oscar Johnson,0.0,2.0
+11.0,Mon,2023-06-05,19:10,Malmö,Degerfors,Adam Ladebäck,5.0,0.0
+12.0,Fri,2023-06-09,19:00,Hammarby,Brommapojkarna,Adam Ladebäck,2.0,1.0
+12.0,Sat,2023-06-10,15:00,Kalmar,Degerfors,Magnus Lindgren,2.0,1.0
+12.0,Sat,2023-06-10,15:00,Värnamo,Malmö,Andreas Ekberg,1.0,3.0
+12.0,Sat,2023-06-10,17:30,Varberg,Halmstad,Adi Aganovic,1.0,2.0
+12.0,Sun,2023-06-11,15:00,AIK Stockholm,Elfsborg,Mohammed Al Hakim,1.0,2.0
+12.0,Sun,2023-06-11,15:00,Sirius,Göteborg,Oscar Johnson,2.0,0.0
+12.0,Sun,2023-06-11,17:30,Häcken,Mjällby,Joakim Östling,3.0,0.0
+12.0,Sun,2023-06-11,17:30,Djurgården,Norrköping,Granit Maqedonci,2.0,2.0
+13.0,Sat,2023-07-01,15:00,Degerfors,Värnamo,Oscar Johnson,0.0,2.0
+13.0,Sat,2023-07-01,15:00,Brommapojkarna,AIK Stockholm,Fredrik Klitte,0.0,2.0
+13.0,Sat,2023-07-01,17:30,Malmö,Sirius,Victor Wolf,3.0,0.0
+13.0,Sun,2023-07-02,15:00,Norrköping,Häcken,Andreas Ekberg,2.0,2.0
+13.0,Sun,2023-07-02,15:00,Halmstad,Göteborg,Joakim Östling,0.0,0.0
+13.0,Sun,2023-07-02,17:30,Djurgården,Varberg,Adam Ladebäck,2.0,0.0
+13.0,Mon,2023-07-03,19:00,Mjällby,Kalmar,Kristoffer Karlsson,1.0,1.0
+13.0,Mon,2023-07-03,19:00,Elfsborg,Hammarby,Granit Maqedonci,2.0,0.0
+14.0,Sat,2023-07-08,15:00,AIK Stockholm,Häcken,Glenn Nyberg,1.0,2.0
+14.0,Sat,2023-07-08,15:00,Värnamo,Djurgården,Magnus Lindgren,1.0,2.0
+14.0,Sat,2023-07-08,17:30,Brommapojkarna,Degerfors,Adi Aganovic,1.0,2.0
+14.0,Sun,2023-07-09,15:00,Malmö,Mjällby,Richard Sundell,1.0,2.0
+14.0,Sun,2023-07-09,15:00,Sirius,Hammarby,Fredrik Klitte,1.0,2.0
+14.0,Sun,2023-07-09,17:30,Kalmar,Elfsborg,Adam Ladebäck,0.0,4.0
+14.0,Mon,2023-07-10,19:00,Norrköping,Halmstad,Granit Maqedonci,1.0,2.0
+14.0,Mon,2023-07-10,19:00,Göteborg,Varberg,Mohammed Al Hakim,1.0,2.0
+15.0,Sat,2023-07-15,15:00,Halmstad,Värnamo,Fredrik Klitte,2.0,2.0
+15.0,Sat,2023-07-15,17:30,Häcken,Brommapojkarna,Kristoffer Karlsson,4.0,2.0
+15.0,Sat,2023-07-15,17:30,Degerfors,Sirius,Granit Maqedonci,0.0,3.0
+15.0,Sun,2023-07-16,15:00,Hammarby,Kalmar,Victor Wolf,3.0,1.0
+15.0,Sun,2023-07-16,15:00,Elfsborg,Göteborg,Glenn Nyberg,1.0,1.0
+15.0,Sun,2023-07-16,17:30,Mjällby,Norrköping,Oscar Johnson,1.0,2.0
+15.0,Mon,2023-07-17,19:00,Djurgården,Malmö,Mohammed Al Hakim,2.0,0.0
+15.0,Mon,2023-07-17,19:00,Varberg,AIK Stockholm,Joakim Östling,1.0,2.0
+16.0,Fri,2023-07-21,19:00,Brommapojkarna,Hammarby,Glenn Nyberg,1.0,0.0
+16.0,Sat,2023-07-22,15:00,Djurgården,Elfsborg,Fredrik Klitte,0.0,4.0
+16.0,Sat,2023-07-22,17:30,Värnamo,Häcken,Richard Sundell,1.0,0.0
+16.0,Sun,2023-07-23,15:00,AIK Stockholm,Malmö,Adam Ladebäck,0.0,0.0
+16.0,Sun,2023-07-23,15:00,Norrköping,Degerfors,Victor Wolf,1.0,0.0
+16.0,Sun,2023-07-23,17:30,Göteborg,Halmstad,Andreas Ekberg,0.0,0.0
+16.0,Sun,2023-07-23,17:30,Kalmar,Varberg,Granit Maqedonci,1.0,0.0
+16.0,Mon,2023-07-24,19:00,Sirius,Mjällby,Joakim Östling,2.0,3.0
