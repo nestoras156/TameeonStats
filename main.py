@@ -1,5 +1,5 @@
 from scrap2pandas import scrape_data, data_cleaner, played_games_filter, upcoming_games_filter, dataStorer
-from teams import get_teams, populate_team_data
+from teams import get_teams, populate_team_data, print_first_team_data, update_elo, calculate_elo
 import pandas as pd
 
 
@@ -16,7 +16,8 @@ def main():
     played_games = played_games_filter(cleaned_dataframe)
     upcoming_games = upcoming_games_filter(cleaned_dataframe)
 
-    dataStorer(played_games, upcoming_games, played_games_file_name, upcoming_games_file_name)
+    dataStorer(played_games, upcoming_games, played_games_file_name,
+               upcoming_games_file_name)
     print("Data scraped and cleaned successfully")
 
     teams = get_teams(played_games_file_name)
@@ -26,6 +27,9 @@ def main():
 
     print("\nUpcoming games:")
     print(pd.read_csv(upcoming_games_file_name))
+
+    print("\nFirst team data:")
+    print_first_team_data(teams)
 
   else:
     print("Could not scrape data")

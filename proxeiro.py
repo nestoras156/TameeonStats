@@ -1,49 +1,55 @@
-################################################################
-def update_elo(R_A, R_B, Sa, K):
-    """
-    Function to update the Elo rating for a team.
+#Attack/Defence ELO
+def calculate_elo(home_team, away_team, actual_goals, average_conceded_goals):
+    K = 20  # This is a constant that should be fine-tuned
+    L = 20  # This is a constant for the case when actual_goals < average_conceded_goals
 
-    Args:
-    R_A: Elo rating for team A
-    R_B: Elo rating for team B
-    Sa: actual result of the game for team A (1 for win, 0.5 for draw, 0 for loss)
-    K: K-factor, which determines the maximum change in rating (larger K = more change)
+    # Calculate the goal difference
+    goal_difference = actual_goals - average_conceded_goals
 
-    Returns:
-    Updated Elo rating for team A
-    """
+    if goal_difference > 0:
+        # Home team's attack was better than expected
+        home_team.home_attack_elo += K * goal_difference
+        away_team.away_defence_elo -= K * goal_difference
+    elif goal_difference < 0:
+        # Home team's attack was worse than expected
+        home_team.home_attack_elo -= L * abs(goal_difference)
+        away_team.away_defence_elo += L * abs(goal_difference)
 
-    # Calculate the expected result for team A based on their current ratings
-    E_A = 1 / (1 + 10 ** ((R_B - R_A) / 400))
+    # Make sure Elo ratings do not fall below a minimum (e.g., 100)
+    home_team.home_attack_elo = max(home_team.home_attack_elo, 100)
+    away_team.away_defence_elo = max(away_team.away_defence_elo, 100)
 
-    # Update the Elo rating for team A based on the actual result and the expected result
-    Rn_A = R_A + K * (Sa - E_A)
+# An example call to the function might look like this:
+# calculate_elo(home_team, away_team, home_team_goals, away_team_avg_conceded)
 
-    return Rn_A
-#################################################################
 
-#################################################################
-
-def update_attack_defense_elo(RA_A, RD_B, actual_goals_A, K):
-    """
-    Function to update the attack Elo rating for team A.
-
-    Args:
-    RA_A: Attack Elo rating for team A
-    RD_B: Defense Elo rating for team B
-    actual_goals_A: Actual goals scored by team A
-    K: K-factor, which determines the maximum change in rating (larger K = more change)
-
-    Returns:
-    Updated Attack Elo rating for team A
-    """
-
-    # Calculate the expected goals for team A based on their current ratings
-    expected_goals_A = 1 / (1 + 10 ** ((RD_B - RA_A) / 400))
-
-    # Update the Elo rating for team A based on the actual goals and the expected goals
-    Rn_A = RA_A + K * (actual_goals_A - expected_goals_A)
-
-    return Rn_A
-
-#################################################################
+#Home/Away/overall result ELO
+def update_elo(home_elo, away_elo, result, k_factor=20):
+    # Calculate expected outcome
+    expected_home = 1 / (1 + 10 ** ((away_elo - home_elo) / 400))
+    expected_away = 1 - expected_home
+    
+    # Define the actual outcome
+    # win = 1, draw = 0.5, loss = 0
+    if result == 'H': # Home Win
+        actual_home = 1
+        actual_away = 0
+    elif result == 'A': # Away Win
+        actual_home = 0
+        actual_away = 1
+    else: # Draw
+        if home_elo > away_elo:
+            actual_home = 0.5
+            actual_away = 0.75
+        elif home_elo < away_elo:
+            actual_home = 0.75
+            actual_away = 0.5
+        else:
+            actual_home = 0.5
+            actual_away = 0.5
+    
+    # Update Elo Ratings
+    new_home_elo = home_elo + k_factor * (actual_home - expected_home)
+    new_away_elo = away_elo + k_factor * (actual_away - expected_away)
+    
+    return new_home_elo, new_away_elo
